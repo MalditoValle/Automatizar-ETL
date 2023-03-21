@@ -1,0 +1,1 @@
+dtexec /f "C:\Users\56978\source\repos\FTP\FTP\Ing_oper.dtsx"
